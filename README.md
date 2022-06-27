@@ -1,4 +1,4 @@
-# Please note!!!!!: This is a temporary fix. Code for gem will be rewritten soon! Use at own risk
+# !!!Please note!!!!!: This is a temporary fix. Code for gem will be rewritten soon! Use at own risk
 
 # ISO-SWIFT - A SWIFT validation/lookup Ruby gem.
 
