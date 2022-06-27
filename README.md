@@ -1,3 +1,5 @@
+# Please note!!!!!: This is a temporary fix. Code for gem will be rewritten soon!
+
 # ISO-SWIFT - A SWIFT validation/lookup Ruby gem.
 
 [![Build Status](https://secure.travis-ci.org/hugolantaume/iso-swift.png?branch=master)](http://travis-ci.org/hugolantaume/iso-swift)
