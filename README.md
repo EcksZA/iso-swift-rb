@@ -15,7 +15,7 @@ It provides methods to validate a given Swift code and/or retrieve information s
 
 Add this line to your application's Gemfile:
 
-    gem 'iso-swift'
+    gem 'iso-swift-rb'
 
 And then execute:
 
@@ -23,7 +23,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install iso-swift
+    $ gem install iso-swift-rb
 
 ## Usage
 
